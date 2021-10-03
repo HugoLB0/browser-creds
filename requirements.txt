@@ -1,0 +1,4 @@
+pypiwin32
+pycryptodome
+hmac
+pyasn1
